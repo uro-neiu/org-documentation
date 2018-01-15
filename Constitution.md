@@ -1,6 +1,6 @@
 # A CONSTITUTION FOR THE UNDOCUMENTED RESILIENT & ORGANIZED
 ## Student Organization Constitution & By## -Laws
-__This was originally finished February 23, 2012__
+**This was originally finished February 23, 2012**
 
 ### PREAMBLE
 This Constitution establishes “Undocumented Resilient & Organized” as a representative body of students. “Undocumented Resilient & Organized” is an organization of undocumented and  fellow students who can relate, commit and contribute to the following purposes:
