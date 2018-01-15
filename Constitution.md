@@ -71,43 +71,91 @@ Shall transmit to the Student Activities Office minutes and signature of those a
 
 Shall make sure current organization Constitution and By-Laws are on file in the Student Activities Office.
 
-##### Section E.    The Executive Committee will have the authority to make interim decisions for the organization subject to review by the organization at the next meeting.  The Executive Officers are responsible for the overall functioning and coordination of the organization.
+##### Section E.    
+
+The Executive Committee will have the authority to make interim decisions for the organization subject to review by the organization at the next meeting.  The Executive Officers are responsible for the overall functioning and coordination of the organization.
 
 ##### Section F.    Standing Committees
 1. Membership of standing committees shall be recommended by its members and approved by the membership. Standing Committees shall appoint their own Chair. 
 
 #### Article V:    MEETINGS
 The organization shall meet at least 4 times during each semester of the regular academic year.
-Article VI:    QUORUM
-Section A.    A minimum of 1 Executive Officer and 25% of the membership must be present to conduct official business of the organization.  Sign-In lists shall be maintained of those attending each meeting.
-Section B.    Once quorum is established, at least a majority vote (50% plus 1) of members present is needed to pass a regular motion placed on the table.
-Article VII:    ELECTIONS
-Section A.    The Coordinator shall appoint an officer for the Elections Committee with the approval of the organization.  The election of officers will be held at the last two meetings of each semester.
-Section B.    All members are eligible to vote. 
-Section C.    A majority vote (50% plus 1) shall be necessary to elect officers.
-Section D.     All officers shall hold office until new officers have been elected.
-Section E.     Newly elected officers shall begin their office term at the beginning of each semester.
-Section E.    The term of office shall be one semester. No officer shall serve in the same position for more than one academic year.
-Article VIII:    ACTIVE MEMBERS
+
+#### Article VI:    QUORUM
+##### Section A.    
+
+A minimum of 1 Executive Officer and 25% of the membership must be present to conduct official business of the organization.  Sign-In lists shall be maintained of those attending each meeting.
+
+##### Section B.    
+
+Once quorum is established, at least a majority vote (50% plus 1) of members present is needed to pass a regular motion placed on the table.
+
+#### Article VII:    ELECTIONS
+
+##### Section A.    
+
+The Coordinator shall appoint an officer for the Elections Committee with the approval of the organization.  The election of officers will be held at the last two meetings of each semester.
+
+##### Section B.    
+
+All members are eligible to vote. 
+
+##### Section C.    
+
+A majority vote (50% plus 1) shall be necessary to elect officers.
+
+##### Section D.     
+
+All officers shall hold office until new officers have been elected.
+
+##### Section E.     
+
+Newly elected officers shall begin their office term at the beginning of each semester.
+
+##### Section E.    
+
+The term of office shall be one semester. No officer shall serve in the same position for more than one academic year.
+
+#### Article VIII:    ACTIVE MEMBERS
+
 Members who are currently enrolled, are active in the organization, and attend at least 4 meetings each semester, shall be considered active members. 
-Article IX:    VACANCIES
-(1)    A vacancy in the positions of the Executive committee shall be filled by any active member of the organization if the membership decides to do so via group consensus only.
-(2)    If no consensus is made, vacancies in the positions of the Executive committee shall be filled by a special election following the normal election procedures.
-Article X:    IMPEACHMENT
-(1)    Officers of the organization may be impeached for:
-(a)    Failure to attend 50% of the regularly scheduled meetings without justifiable reason; the membership via consensus should decide the meaning of justifiable reason.
-(b)    Failure to fulfill the duties of office as outlined in this Constitution.
-(c)    Showing lack of interest to the organization.
-(2)    Impeachment charges can be brought forward by any member at any time. The charges will be presented at one meeting and delivered by mail to the individual being charged.
-(3)    A special meeting, at which there must be a quorum, will be held within 10 days of the initial presentation of the charges at which time the individual being charged will be able to answer the charges.
-(4)    A 2/3 majority vote of those present at the meeting is necessary for impeachment and removal from office.
-(5)    Vacancies created by impeachment shall be filled as prescribed in Article IX.
-Article XI:    AMENDMENTS
-Section A.    This Constitution may be amended by a (2/3 recommended) majority vote of the membership at any meeting of the organization at which a quorum is present following the approval of the amendment by the Executive Committee.
-Section B.    Amendments must be presented to the Executive Committee for approval before they may be submitted to this organization membership of a vote.
-Section C.    Amendments shall become effective following approval of the Student Government Charter Committee and the Office of Student Activities.
-Article XII:    ENACTING CLAUSE
+
+#### Article IX:    VACANCIES
+1. A vacancy in the positions of the Executive committee shall be filled by any active member of the organization if the membership decides to do so via group consensus only.
+2. If no consensus is made, vacancies in the positions of the Executive committee shall be filled by a special election following the normal election procedures.
+
+#### Article X:    IMPEACHMENT
+1. Officers of the organization may be impeached for:
+  a. Failure to attend 50% of the regularly scheduled meetings without justifiable reason; the membership via consensus should decide the meaning of justifiable reason.
+  b.    Failure to fulfill the duties of office as outlined in this Constitution.
+  c.    Showing lack of interest to the organization.
+
+2. Impeachment charges can be brought forward by any member at any time. The charges will be presented at one meeting and delivered by mail to the individual being charged.
+
+3. A special meeting, at which there must be a quorum, will be held within 10 days of the initial presentation of the charges at which time the individual being charged will be able to answer the charges.
+
+4. A 2/3 majority vote of those present at the meeting is necessary for impeachment and removal from office.
+
+5. Vacancies created by impeachment shall be filled as prescribed in Article IX.
+
+#### Article XI:    AMENDMENTS
+##### Section A.    
+
+This Constitution may be amended by a (2/3 recommended) majority vote of the membership at any meeting of the organization at which a quorum is present following the approval of the amendment by the Executive Committee.
+
+##### Section B.    
+
+Amendments must be presented to the Executive Committee for approval before they may be submitted to this organization membership of a vote.
+
+##### Section C.    
+
+Amendments shall become effective following approval of the Student Government Charter Committee and the Office of Student Activities.
+
+##### Article XII:    ENACTING CLAUSE
+
 This Constitution shall be effective as of the date that the Constitution is approved by the Director of Student Activities,
+
+`
 SIGNATURES OF APPROVAL:
 Organization Officer:                    Date:
 ________________________________            ___________________
@@ -124,21 +172,40 @@ President                            Date:
 Director of the Student Activities Office:            Date:
 ________________________________            ___________________
 Director                            Date:
-UNDOCUMENTED RESILIENT & ORGANIZED 
-BY-LAWS
-Article I:    MEETINGS
-(1)    The Executive Committee shall set the meeting schedule at the beginning of each semester or at the first meetings with the collaboration of the membership.
-(2)    The organization shall hold regularly scheduled meetings at least 1 time per month during the regular academic year
-(3)    Special meetings can be called by the Executive Committee provided at least 24 hour notification is given to the membership.
-Article II:    AD-HOC COMMITTEES
-(1)    Ad-Hoc Committees may be established to carry out specific short term tasks for the Organization.
+`
+
+### UNDOCUMENTED RESILIENT & ORGANIZED 
+#### BY-LAWS
+#### Article I:    MEETINGS
+
+1.    The Executive Committee shall set the meeting schedule at the beginning of each semester or at the first meetings with the collaboration of the membership.
+
+2.    The organization shall hold regularly scheduled meetings at least 1 time per month during the regular academic year
+
+3.    Special meetings can be called by the Executive Committee provided at least 24 hour notification is given to the membership.
+
+#### Article II:    AD-HOC COMMITTEES
+1. Ad-Hoc Committees may be established to carry out specific short term tasks for the Organization.
 Committees shall be appointed and approved by the membership.  The Chair of the committee will be appointed by the membership.
-Article III:    PARLIAMENTARY PROCEDURE
+
+#### Article III:    PARLIAMENTARY PROCEDURE
 This Organization shall follow the rules of order as outlined in Roberts Rules of Order - Newly Revised.
-Article IV:    BY-LAW CHANGES
-Section A.    These by-laws may be amended by a majority vote (50% plus 1) of the membership at any meeting of the organization at which time a quorum is present following the approval of this amendment by the Executive Committee.
-Section B.    By-law amendments must be presented to the Executive Committee before they may be submitted to the organization membership for vote.
-Section C.    By-law amendments shall become effective following approval of the Student Government Charter Committee and the Office of Student Activities.
+
+#### Article IV:    BY-LAW CHANGES
+
+##### Section A.    
+
+These by-laws may be amended by a majority vote (50% plus 1) of the membership at any meeting of the organization at which time a quorum is present following the approval of this amendment by the Executive Committee.
+
+##### Section B.    
+
+By-law amendments must be presented to the Executive Committee before they may be submitted to the organization membership for vote.
+
+##### Section C.    
+
+By-law amendments shall become effective following approval of the Student Government Charter Committee and the Office of Student Activities.
+
+`
 SIGNATURES OF APPROVAL:
 Organization Officer:                    Date:
 ________________________________            ___________________
@@ -155,3 +222,4 @@ President                            Date:
 Director of the Student Activities Office:            Date:
 ________________________________            ___________________
 Director                            Date:
+`
